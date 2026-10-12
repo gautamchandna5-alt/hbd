@@ -27,7 +27,7 @@ export const Landing = () => {
             Birthday
           </h1>
           <p className="font-serif text-[#4e3629] text-sm tracking-[0.2em] font-bold mt-4 uppercase">
-            Name Here
+            Sheyaaaa
           </p>
         </div>
       </div>
