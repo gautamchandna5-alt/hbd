@@ -79,22 +79,22 @@ export const LetterSection = () => {
                 </div>
                 <p className="font-serif text-[#4e3629] text-[13px] leading-loose text-justify">
                   Happy Birthday sheyaaa 
-                    Tu 18 ki hogyiiii, budhiii hoti ja rhii hhh🤧😭
-                    So here are some 18 lines for you <br />
+                  Tu 18 ki hogyiiii, budhiii hoti ja rhii hhh🤧😭
+                  So here are some 18 lines for you 
 
-                 1 Happy Birthday sheya,may kanha ji bless you and complete all your wishes 🧿<br />
-                 2 Happy Birthday sheya, always remain this innocent and cute😋<br />
-                 3 Happy Birthday sheyaa,may u always remain this pretty and charming ✌️✨<br />
+                  1 Happy Birthday sheya,may kanha ji bless you and complete all your wishes 🧿<br />
+                2  Happy Birthday sheya, always remain this innocent and cute😋<br />
+                3  Happy Birthday sheyaa,may u always remain this pretty and charming ✌️<br />
                  4 Happy Birthday sheya,mard jaat se bach kr rhioo🤧<br />
-                 5 Happy Birthday sheyaa,aise hi voice notes or songs bhejti rhioooo😁<br />
-                 6 Happy Birthday sheyaa,stay happy and dancing and kbhi kbhi video bhi bhej dia krio🙃<br />
-                 7 Happy Birthday sheyaa,aise hi apna music taste mjhse share krti rhiooo<br />
-                8 Happy Birthday sheyaaa,phle ki trh hmesha meri dost rhioo<br />
-                9  Happy Birthday sheyaa,life me kuch bhi ho mjhse share jrur krioo<br />
-                10  Happy Birthday michiii,hehe<br />
-                11  Happy Birthday sheyaa, kbhi bhi koi bhi problem ho i am always there for you<br />
-                 12 Happy Birthday sheyaa,call kr lia kr merkooo<br />
-                13  Happy Birthday sheyaa,wo jo snaps tjhe waste lage na wo bhi mjhe bhej skti h tu bhondhuu<br />
+                5  Happy Birthday sheyaa,aise hi voice notes or songs bhejti rhioooo😁<br />
+                6  Happy Birthday sheyaa,stay happy and dancing and kbhi kbhi video bhi bhej dia krio🙃<br />
+                7  Happy Birthday sheyaa,aise hi apna music taste mjhse share krti rhiooo✨<br />
+                8  Happy Birthday sheyaaa,phle ki trh hmesha meri dost rhioo😭<br />
+                9  Happy Birthday sheyaa,life me kuch bhi ho mjhse share jrur krioo😚<br />
+                10  Happy Birthday michiii,hehe😋<br />
+                 11 Happy Birthday sheyaa, kbhi bhi koi bhi problem ho i am always there for you🫠<br />
+                12  Happy Birthday sheyaa,call kr lia kr merkooo🙏<br />
+                13  Happy Birthday sheyaa,wo jo snaps tjhe waste lage na wo bhi mjhe bhej skti h tu bhondhuu😶‍🌫️<br />
                  14 Happy Birthday sheyaa,thank you jb mjhe need thi tb sbse jyada care dene ke liyee🥹<br />
                  15 Happy Birthday sheyaa,u the bestt💖<br />
                  16 Happy Birthday sheyaa, always caring for you even if we aren't talking 🙃<br />
