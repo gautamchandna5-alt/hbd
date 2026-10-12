@@ -92,7 +92,7 @@ export const LetterSection = () => {
                 8  Happy Birthday sheyaaa,phle ki trh hmesha meri dost rhioo😭<br />
                 9  Happy Birthday sheyaa,life me kuch bhi ho mjhse share jrur krioo😚<br />
                 10  Happy Birthday michiii,hehe😋<br />
-                 11 Happy Birthday sheyaa, kbhi bhi koi bhi problem ho i am always there for you🫠<br />
+                 11 Happy Birthday sheyaa, kbhi bhi koi bhi problem ho I am always there for you🫠<br />
                 12  Happy Birthday sheyaa,call kr lia kr merkooo🙏<br />
                 13  Happy Birthday sheyaa,wo jo snaps tjhe waste lage na wo bhi mjhe bhej skti h tu bhondhuu😶‍🌫️<br />
                  14 Happy Birthday sheyaa,thank you jb mjhe need thi tb sbse jyada care dene ke liyee🥹<br />
