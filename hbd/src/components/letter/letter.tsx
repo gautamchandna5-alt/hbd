@@ -80,7 +80,7 @@ export const LetterSection = () => {
                 <p className="font-serif text-[#4e3629] text-[13px] leading-loose text-justify">
                   Happy Birthday sheyaaa 
                   Tu 18 ki hogyiiii, budhiii hoti ja rhii hhh🤧😭
-                  So here are some 18 lines for you 
+                  So here are some 18 lines for you <br />
 
                   1 Happy Birthday sheya,may kanha ji bless you and complete all your wishes 🧿<br />
                 2  Happy Birthday sheya, always remain this innocent and cute😋<br />
