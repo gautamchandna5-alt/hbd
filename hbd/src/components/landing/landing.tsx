@@ -79,7 +79,7 @@ export const Landing = () => {
           </motion.div>
         </div>
       </div>
- {/* SECTION 3: Footer Message (Pulls up close right under the pictures) */}
+ {/* SECTION 3: Footer Message*/}
       <div className="flex-1 flex flex-col items-center justify-start z-10 w-full pt-4 pb-6">
         <p className="font-serif italic text-[#4e3629] text-sm leading-relaxed mb-4 max-w-[260px] text-center">
           "Wishing you a birthday filled with love, laughter, and cherished memories to last a lifetime."
